@@ -24,7 +24,6 @@ gem 'uglifier'
 # jquery-rails is
 gem 'jquery-rails'
 
-# ActiveAdmin requires devise < 4.0
 gem 'devise'
 
 group :test do
