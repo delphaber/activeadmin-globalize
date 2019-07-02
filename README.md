@@ -2,8 +2,7 @@
 
 Makes it easy to translate your resource fields.
 
-[![Gem Version](https://badge.fury.io/rb/activeadmin-globalize.svg)](http://badge.fury.io/rb/activeadmin-globalize)
-[![Build Status](https://travis-ci.org/fabn/activeadmin-globalize.svg?branch=develop)](https://travis-ci.org/fabn/activeadmin-globalize)
+[![Build Status](https://travis-ci.org/delphaber/activeadmin-globalize.svg?branch=develop)](https://travis-ci.org/delphaber/activeadmin-globalize)
 
 ## Help Needed
 
